@@ -97,3 +97,42 @@ else if (one < second && second > third)
 else
     Console.WriteLine(third + " ededi en boyukdur");
 #endregion
+
+#region (İmtahan nəticəsi Tapşırıq: Bal 50-dən yuxarıdırsa "Keçdi", aşağıdırsa "Kəsildi".)
+int examResult = 40;
+if (examResult > 50)
+{
+    Console.WriteLine("imtahandan kecdiniz");
+}
+else
+    Console.WriteLine("imtahandan kesildiniz");
+#endregion
+
+#region (Həftənin günləri (Switch) Tapşırıq: 1-7 arası rəqəm daxil edilir, günün adını yazın.)
+int dayOfWeek = 1;
+switch (dayOfWeek)
+{
+    case 1:
+        Console.WriteLine("heftenin birinci gunu");
+        break;
+    case 2:
+        Console.WriteLine("heftenin ikinci gunu");
+        break;
+    case 3:
+        Console.WriteLine("heftenin ucuncu gunu");
+        break;
+    case 4:
+        Console.WriteLine("heftenin dorduncu gunu");
+        break;
+    case 5:
+        Console.WriteLine("heftenin besinci gunu");
+        break;
+    case 6:
+        Console.WriteLine("heftenin altinci gunu");
+        break;
+    case 7:
+        Console.WriteLine("heftenin yeddinci gunu");
+        break;
+}
+#endregion
+
