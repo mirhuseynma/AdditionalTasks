@@ -36,3 +36,15 @@ float celci = 12f;
 float faranheyt = celci * 1.8f + 32;
 Console.WriteLine(faranheyt);
 #endregion
+
+#region (Ədədin son rəqəmi Tapşırıq: Daxil edilən ədədin son rəqəmini ekrana çıxarın.)
+int oneNum = 230;
+int endNum = oneNum % 10;
+Console.WriteLine("Verilmis ededin son reqemi: " + endNum);
+#endregion
+
+#region (Artırma əməliyyatı Tapşırıq: Bir ədədi daxil edin və onu 1 vahid artırıb ekrana yazın (Post-increment).)
+int value1 = 14;
+int incrementValue = ++value1;
+Console.WriteLine("ededin bir ustu: " + incrementValue);
+#endregion
