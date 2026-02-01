@@ -23,3 +23,16 @@ int area = sideOne * sideSecond;
 int perimetr = 2 * (sideOne + sideSecond);
 Console.WriteLine("duzbucaqlinin sahesi " + area + ", perimetri ise " + perimetr);
 #endregion
+
+#region (Qalıqlı bölmə Tapşırıq: İki ədədin bölünməsindən alınan qalığı tapın.)
+int numOne = 5;
+int numSecond = 3;
+int resudue = numOne % numSecond;
+Console.WriteLine("Neticeden qalan qaliq " + resudue);
+#endregion
+
+#region (Selsi dəyərini Fahrenheit-ə çevirin)
+float celci = 12f;
+float faranheyt = celci * 1.8f + 32;
+Console.WriteLine(faranheyt);
+#endregion
