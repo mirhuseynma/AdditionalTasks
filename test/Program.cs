@@ -136,3 +136,25 @@ switch (dayOfWeek)
 }
 #endregion
 
+#region
+int fizz = 15;
+if (fizz % 3 == 0 | fizz % 5 == 0)
+{
+    Console.WriteLine("FizzBuzz");
+}
+else if (fizz % 3 == 0)
+{
+    Console.WriteLine("Fizz");
+}
+else if (fizz % 5 == 0)
+{
+    Console.WriteLine("Buzz");
+}
+else
+    Console.WriteLine("hec birine bolunmur");
+
+#endregion
+
+
+
+
