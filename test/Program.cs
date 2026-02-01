@@ -1,17 +1,12 @@
-﻿#region ededin quvveti
-int num = 81;
-int quvvet = 1;
-int esas = 2;
-int numclone = num;
-while(quvvet < num)
-{
-    quvvet *= esas;  
-}
- if (quvvet == num)
-    {
-        Console.WriteLine(num + " ededi " + esas + " ededinin quvvetidir");
-
-    }
-    else if(quvvet != num)
-        Console.WriteLine(num + " ededi " + esas + " ededinin quvveti deyil");
+﻿#region ("Salam Dünya" və Ad çapı Tapşırıq: Ekrana "Salam" və istifadəçinin daxil etdiyi adı yazdırın.)
+string helloWorld = "Salam Dunya! ";
+string userName = "Mirhuseyn";
+Console.WriteLine(helloWorld + userName);
 #endregion
+
+#region (İki ədədin cəmi Tapşırıq: İstifadəçidən iki ədəd alıb cəmini tapın.)
+int ab = 100;
+int ba = 200;
+Console.WriteLine("iki ededinin cemi " + ab + ba);
+#endregion
+
