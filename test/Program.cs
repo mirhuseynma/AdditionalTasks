@@ -48,3 +48,27 @@ int value1 = 14;
 int incrementValue = ++value1;
 Console.WriteLine("ededin bir ustu: " + incrementValue);
 #endregion
+
+#region (Tək yoxsa Cüt? Tapşırıq: Ədədin tək və ya cüt olmasını yoxlayın.)
+int number = 5;
+if (number % 2 == 0)
+{
+    Console.WriteLine(number + " ededi cutdur");
+}
+else
+    Console.WriteLine(number + " ededi tekdir");
+#endregion
+
+#region (Mənfi, Müsbət, Sıfır Tapşırıq: Ədədin işarəsini təyin edin.)
+int numberU = -5;
+if (numberU > 0)
+{
+    Console.WriteLine(numberU + " ededi musbetdir: +");
+}
+else if (numberU == 0)
+{
+    Console.WriteLine(" eded 0 a beraberdir");
+}
+else
+    Console.WriteLine(numberU + " ededi menfidir; -");
+#endregion
