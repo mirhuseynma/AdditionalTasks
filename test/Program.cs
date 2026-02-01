@@ -72,3 +72,28 @@ else if (numberU == 0)
 else
     Console.WriteLine(numberU + " ededi menfidir; -");
 #endregion
+
+#region (Böyük olanı tap Tapşırıq: İki ədəd arasında ən böyüyünü tapın.)
+int one = 20;
+int second = 5;
+int third = 10;
+if (one > second)
+{
+    Console.WriteLine(one + " verilmis ededlerden en boyuyudur");
+}
+else
+    Console.WriteLine(second + " ededi en boyukdur");
+#endregion
+
+#region (3 ədəd arasında maksimum Tapşırıq: Üç ədəd daxil edilir, ən böyüyünü tapın.)
+if (one > second && one > third)
+{
+    Console.WriteLine(one + " ededi en boyukdur");
+}
+else if (one < second && second > third)
+{
+    Console.WriteLine(second + " ededi en boyukdur");
+}
+else
+    Console.WriteLine(third + " ededi en boyukdur");
+#endregion
