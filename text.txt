@@ -1,0 +1,49 @@
+"Salam Dünya" və Ad çapı Tapşırıq: Ekrana "Salam" və istifadəçinin daxil etdiyi adı yazdırın.
+İki ədədin cəmi Tapşırıq: İstifadəçidən iki ədəd alıb cəmini tapın.
+Ədədin kvadratı Tapşırıq: Daxil edilən ədədin kvadratını hesablayın.
+Düzbucaqlının sahəsi və perimetri. Tapşırıq: Eni və uzunluğu verilən düzbucaqlının sahəsini və perimetrini tapın.
+Qalıqlı bölmə Tapşırıq: İki ədədin bölünməsindən alınan qalığı tapın.
+Orta yaş hesablama Tapşırıq: tələbəlerin yaşını alıb ortalamasını tapın.
+Selsi dəyərini Fahrenheit-ə çevirin (
+F
+=
+C
+∗
+1.8
++
+32
+).
+Ədədin son rəqəmi Tapşırıq: Daxil edilən ədədin son rəqəmini ekrana çıxarın.
+Artırma əməliyyatı Tapşırıq: Bir ədədi daxil edin və onu 1 vahid artırıb ekrana yazın (Post-increment).
+Tək yoxsa Cüt? Tapşırıq: Ədədin tək və ya cüt olmasını yoxlayın.
+Mənfi, Müsbət, Sıfır Tapşırıq: Ədədin işarəsini təyin edin.
+Böyük olanı tap Tapşırıq: İki ədəd arasında ən böyüyünü tapın.
+3 ədəd arasında maksimum Tapşırıq: Üç ədəd daxil edilir, ən böyüyünü tapın.
+İmtahan nəticəsi Tapşırıq: Bal 50-dən yuxarıdırsa "Keçdi", aşağıdırsa "Kəsildi".
+Həftənin günləri (Switch) Tapşırıq: 1-7 arası rəqəm daxil edilir, günün adını yazın.
+Sadə Kalkulyator Tapşırıq: İki ədəd və bir simvol (+, -, *, /) daxil edilir, nəticəni hesablayın.
+3-ə və 5-ə bölünmə Tapşırıq: Ədəd həm 3-ə, həm də 5-ə bölünürsə "Uğurlu", əks halda "Uğursuz".
+Üçbucaq qurmaq olarmı? Tapşırıq: 3 bucaq daxil edilir. Cəmi 180 olarsa "Bəli".
+Ədəd mənfidirsə, onu müsbətə çevirin.
+1-dən 100-ə qədər say Tapşırıq: 1-dən 100-ə qədər ədədləri ekrana yazdırın.
+10-dan 1-ə qədər geriyə sayın.
+Cüt ədədlərin siyahısı Tapşırıq: 1-50 arası cüt ədədləri yazdırın.
+Daxil edilən ədədə qədər olan bütün ədədlərin cəmini tapın.
+Faktorial. 5! hesablayın ($12345$).
+5 ədədinin vurma cədvəlini yazdırın.
+Daxil edilən ədədin neçə rəqəmli olduğunu tapın (While ilə).
+Hazır funksiya istifadə etmədən ededin quvvetin hesablayın.
+A-dan Z-ə qədər hərfləri yazdırın.
+1-100 arası tək ədədlərin cəmini tapın.
+1234 daxil edilir, 4321 çap edilir.
+Ədəd tərsinə oxunuşda da eynidirsə (məs: 121),
+456 ədədinin rəqəmləri cəmi (4+5+6).
+Ədədin sadə olub olmadığını yoxlayın.
+İlk 10 Fibonacci ədədini yazın (0 1 1 2 3 5...).
+Nested loop ilə ulduz çəkmək
+3-ə bölünən "Fizz", 5-ə "Buzz", hər ikisinə "FizzBuzz".
+İki ədədin Ən Böyük Ortaq Bölənini tapın.
+Kompüter bir rəqəm tutur (məs: 50), istifadəçi tapana qədər dövr davam edir.
+Bankomat (Sadə ATM) Tapşırıq: Balansdan pul çıxarmaq.
+1-dən 100-ə qədər 7-yə bölünən ədədlərin cəmi Tapşırıq: Sadə riyazi dövr.
+bubble sort yazin
